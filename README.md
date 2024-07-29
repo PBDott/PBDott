@@ -54,6 +54,12 @@
 
 <br><br>
 
+<h3 align="center">solved.ac</h3>
+<!-- solved.ac rank -->
+<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haho020304"/></p>
+
+<br><br>
+
 <!-- most used languages, github status -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -66,9 +72,3 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=PBDott&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
   </a>
 </div>
-
-<br><br>
-
-<!-- solved.ac rank -->
-
-<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haho020304"/></p>
