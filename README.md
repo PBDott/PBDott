@@ -2,7 +2,7 @@
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
-***
+---
 <div align="center">
   <p><strong>Frontend</strong></p>
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -39,7 +39,7 @@
 <br><br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
-***
+---
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -58,7 +58,7 @@
 
 <!-- solved.ac rank -->
 <h3 align="center">solved.ac</h3>
-***
+---
 <p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haho020304"/></p>
 
 <br><br>
