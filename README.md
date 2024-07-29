@@ -71,7 +71,4 @@
 
 <!-- solved.ac rank -->
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haho020304)](https://solved.ac/haho020304)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=haho020304&theme=dark)
-
+<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haho020304"/></p>
