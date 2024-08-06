@@ -50,7 +50,8 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://ha2o.tistory.com"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=%7Bdefault%7D" alt="Tistory&#39;s Badge"></a>&nbsp
+   
+  <a href="https://ha2o.tistory.com"><img height="20px" src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=%7Bdefault%7D" alt="Tistory&#39;s Badge"></a>&nbsp
   <a href="mailto:imhaho@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=imhaho@gmail.com"/></a>&nbsp
 </div>
 
