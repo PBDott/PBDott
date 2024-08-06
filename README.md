@@ -50,8 +50,8 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://ha2o.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="mailto:imhaho@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="https://ha2o.tistory.com"><img src="https://img.shields.io/badge/Tech%20Tistory?style=for-the-badge&logo=Tistory&logoColor=white&link=https://ha2o.tistory.com"/></a>&nbsp
+  <a href="mailto:imhaho@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=imhaho@gmail.com"/></a>
 </div>
 
 <br><br>
